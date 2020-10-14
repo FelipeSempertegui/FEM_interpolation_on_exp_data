@@ -5,7 +5,7 @@ The inputs & outputs of the code can be seen next:
 
 <img src="figures/FEMinterpolation.png" width = "600">
 
-The first figure shows the point cloud representing the measured surface & their colors correspond to the data’s magnitude linked to them. The figure on the right is the customized Finite-Element-Method mesh containing the interpolated experimental data.
+The first figure shows the point cloud representing the measured surface & their colors correspond to the data assigned to each of those points. The figure on the right is the customized Finite-Element-Method mesh containing the interpolated experimental data at the nodes.
 
 [1]: Pires, F., Avril, S., Vanlanduit, S., & Dirckx, J. (2019). Structural intensity assessment on shells via a finite element approximation. The Journal of the Acoustical Society of America, 145(1), 312-326.
 
